@@ -1,0 +1,3 @@
+rootProject.name='WIFIConnect'
+include ':app'
+include ':server'
